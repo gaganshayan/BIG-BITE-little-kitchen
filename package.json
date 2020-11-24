@@ -1,0 +1,19 @@
+{
+  "name": "big-bite-little-kitchen",
+  "version": "1.0.0",
+  "description": "'BIG BITE, little kitchen' is a fullstack application that is home to a blog that stores recipes and other fun information. Serving as a unit 4 capstone project, this application will be built using REACT and contentful, will offer full CRUD functionality and will be responsive and ready to operate on mobile, tablet and desktop platforms.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gaganshayan/BIG-BITE-little-kitchen.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gaganshayan/BIG-BITE-little-kitchen/issues"
+  },
+  "homepage": "https://github.com/gaganshayan/BIG-BITE-little-kitchen#readme"
+}
